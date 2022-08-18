@@ -1,0 +1,28 @@
+{
+  "name": "remark-add-code-titles",
+  "version": "0.1.0",
+  "description": "A remark plugin to add titles to code markdown code blocks",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnuswahlstrand/remark-add-code-titles.git"
+  },
+  "keywords": [
+    "remark",
+    "typescript",
+    "javascript"
+  ],
+  "author": "Magnus Wahlstrand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magnuswahlstrand/remark-add-code-titles/issues"
+  },
+  "homepage": "https://github.com/magnuswahlstrand/remark-add-code-titles#readme"
+}

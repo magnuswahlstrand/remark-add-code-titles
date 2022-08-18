@@ -1,0 +1,1 @@
+export {attacher} from "./plugin";
